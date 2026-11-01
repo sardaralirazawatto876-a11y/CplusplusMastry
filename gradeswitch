@@ -1,0 +1,26 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int choice;
+	
+	cout<<"Enter your choice(1-4)"<<endl;
+	cin>>choice;
+	switch(choice){
+		case 1:
+			cout<<"Ecellent"<<endl;
+			break;
+		case 2:
+			cout<<"Good"<<endl;
+			break;
+		case 3:
+			cout<<"Average"<<endl;
+			break;
+		case 4:
+			cout<<"Fail"<<endl;
+		    break;
+		default:
+			cout<<"invalid choice\n";
+			break;
+	}
+	return 0;
+}
