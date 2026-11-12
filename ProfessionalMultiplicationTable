@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int i;
+	int number;
+	int limit;
+	cout<<"Enter your i:"<<endl;
+	cin>>i;
+	cout<<"Enter your number:"<<endl;
+	cin>>number;
+	cout<<"Enter your limit:"<<endl;
+	cin>>limit;
+	while(i<=limit){
+		cout<<number<<"x"<<i<<"="<<number*i<<endl;
+		i++;
+	}
+	return 0;
+}
