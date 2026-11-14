@@ -8,3 +8,22 @@ Version Control: Git & GitHub
 Contact & Connect
 Developer: Ali Raza Asghar
 Focus: Software Engineering & Core Programming
+My Programs include
+project1
+ProfessionalMultiplicationTabl
+ProfessionalPositiveNegativeOddevenchecker
+Student information
+Sumusingwhileloop
+Untitled-2
+Untitled1
+gradeswitch
+name age marks
+polymath
+problem 11
+pronlem1
+scirm
+shopping bill
+signparityprimenumberperfectsquare
+studentgradecalculator
+subjectsswitch
+switchaddisubbidivision
